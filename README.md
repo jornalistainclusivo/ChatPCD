@@ -1,2 +1,2 @@
 # ChatPCD
-ChatPCD: Dando Voz a Inclusão Brasileira!
+Dando Voz a Inclusão Brasileira!
